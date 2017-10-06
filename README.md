@@ -7,6 +7,8 @@
 
 # <img src="https://socialconnect.github.io/assets/icons/mark-github.svg" width="27"> GHubber (GitHub mobile client)
 
+[![Join the chat at https://gitter.im/ovr/ghubber](https://badges.gitter.im/ovr/ghubber.svg)](https://gitter.im/ovr/ghubber?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Yet another Mobile :iphone: client for GitHub powered on react-native.
 
 > It's alpha, in development ;)
